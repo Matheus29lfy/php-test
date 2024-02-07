@@ -1,0 +1,24 @@
+Leilao (Alura\Leilao\Tests\Model\Leilao)
+ [x] Leilao nao deve receber lances repetidos
+ [x] Leilao deve receber lances with data set "dois-lances"
+ [x] Leilao deve receber lances with data set "um-lance"
+ [x] Leilao nao deve receber lances mais de cinco lances por usuario
+
+Avaliador (Alura\Leilao\Tests\Service\Avaliador)
+ [x] Avaliador deve encontrar maior valor de lances with data set "ordem-aleatoria"
+ [x] Avaliador deve encontrar maior valor de lances with data set "ordem-crescente"
+ [x] Avaliador deve encontrar maior valor de lances with data set "ordem-decrescente"
+ [x] Avaliador deve encontrar maior valor em ordem decrescente with data set "ordem-aleatoria"
+ [x] Avaliador deve encontrar maior valor em ordem decrescente with data set "ordem-crescente"
+ [x] Avaliador deve encontrar maior valor em ordem decrescente with data set "ordem-decrescente"
+ [x] Avaliador deve encontrar menor valor em ordem decrescente with data set "ordem-aleatoria"
+ [x] Avaliador deve encontrar menor valor em ordem decrescente with data set "ordem-crescente"
+ [x] Avaliador deve encontrar menor valor em ordem decrescente with data set "ordem-decrescente"
+ [x] Avaliador deve encontrar menor valor em ordem crescente with data set "ordem-aleatoria"
+ [x] Avaliador deve encontrar menor valor em ordem crescente with data set "ordem-crescente"
+ [x] Avaliador deve encontrar menor valor em ordem crescente with data set "ordem-decrescente"
+ [x] Avaliador deve buscar tres maiores valores with data set "ordem-aleatoria"
+ [x] Avaliador deve buscar tres maiores valores with data set "ordem-crescente"
+ [x] Avaliador deve buscar tres maiores valores with data set "ordem-decrescente"
+ [x] Leilao vazio nao pode ser avaliado
+
